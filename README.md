@@ -1,6 +1,6 @@
 # ioetExercise
 
-How to run:
+How to run:  
 I made this project with eclipse, so just create a new folder beside the src folder called 'input'.  
 Put the ioet package in the src folder of a project.  
 The 'input' folder is needed for the input.txt file, because in the 'AcmeCalculation' class is a relative path used for the input.  
